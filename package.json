@@ -1,6 +1,6 @@
 {
   "name": "gulp-browserify-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp task to watch and compile typescript files using browserify.",
   "main": "index.js",
   "scripts": {
